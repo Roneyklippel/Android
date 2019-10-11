@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e06ce84e-e0a1-466d-9fda-b0ced95bc797" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Atividade1.java/Atividade" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade1.java/Atividade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade2.java/atividade2" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividade2.java/atividade2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conversor" beforeDir="false" afterPath="$PROJECT_DIR$/../Conversor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelpDesk" beforeDir="false" afterPath="$PROJECT_DIR$/../HelpDesk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nova pasta (2)/TrabalhoReferencia" beforeDir="false" afterPath="$PROJECT_DIR$/../Nova pasta (2)/TrabalhoReferencia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RoneyAvaliacao" beforeDir="false" afterPath="$PROJECT_DIR$/../RoneyAvaliacao" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabalhoHelpDeskRennan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/androidTest/java/br/senac/es/trabalhoreferencia/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/API/ChamadoTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/API/MensagemTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/API/OnEventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/MainActivity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/Chamado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/Funcao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/Mensagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/MensagemWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/Tab1Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/Tab2Fragmant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/TabAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/java/br/senac/es/trabalhoreferencia/model/TabsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/layout/activity_tabs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/layout/fragment_one.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/layout/fragment_two.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/app/src/test/java/br/senac/es/trabalhoreferencia/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trabalhoreferencia/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC16/mensagens-android" beforeDir="false" afterPath="$PROJECT_DIR$/../UC16/mensagens-android" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helpdesk-spring-boot" beforeDir="false" afterPath="$PROJECT_DIR$/../helpdesk-spring-boot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mensagens-android" beforeDir="false" afterPath="$PROJECT_DIR$/../mensagens-android" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_4_API_22" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/APIService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/ApiUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/MensagemTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/OnEventListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/RetrofitClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/model/Tab1Fragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/model/Tab2Fragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/model/TabAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/model/TabsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/local.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/app/app.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="C:/Projeto Chamado" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="es.br.senac.trabalhochamado.model" />
+      <recent name="es.br.senac.trabalhochamado.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ANDROID\TrabalhoChamado\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e06ce84e-e0a1-466d-9fda-b0ced95bc797" name="Default Changelist" comment="" />
+      <created>1570750232747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570750232747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21390937" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="5" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/OnEventListener.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/RetrofitClient.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/model/Tab1Fragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/model/Tab2Fragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/model/TabAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/model/TabsActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_nova_mensagem.xml" />
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_two.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_one.xml" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+    <entry file="file://$USER_HOME$/.gradle/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro" />
+    <entry file="file://$PROJECT_DIR$/gradle.properties" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle" />
+    <entry file="file://$PROJECT_DIR$/local.properties" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/APIService.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/ApiUtils.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/api/MensagemTask.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tabs.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/es/br/senac/trabalhochamado/MainActivity.java" />
+  </component>
+</project>

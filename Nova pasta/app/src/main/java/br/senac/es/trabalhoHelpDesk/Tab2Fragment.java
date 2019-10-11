@@ -1,0 +1,72 @@
+package br.senac.es.trabalhoHelpDesk;
+
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+import android.widget.Toast;
+
+
+import androidx.fragment.app.Fragment;
+
+import com.google.gson.Gson;
+
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.senac.es.trabalhoHelpDesk.API.ChamadoTask;
+import br.senac.es.trabalhoHelpDesk.API.OnEventListener;
+import br.senac.es.trabalhoHelpDesk.model.Chamados;
+
+
+public class Tab2Fragment extends Fragment {
+    ListView listChamadosFechados;
+
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        final View view = inflater.inflate(R.layout.fragment_two, container, false);
+
+        final List<Chamados> listaDeChamadosFechados = new ArrayList<Chamados>();
+
+        ChamadoTask chamadoTask = new ChamadoTask(view.getContext(), new OnEventListener<String>() {
+            @Override
+            public void onSuccess(String result) {
+                Toast.makeText(view.getContext(), "FECHADOS: ", Toast.LENGTH_LONG).show();
+//                Log.e("JSON",result);
+                Gson gson = new Gson();
+
+                Chamados[] chamados = gson.fromJson(result, Chamados[].class);
+
+                for (Chamados chamado: chamados){
+                    if(chamado.getStatus().toLowerCase().equals("fechado")){
+
+                        listaDeChamadosFechados.add(chamado);
+
+
+
+                    }
+                    ArrayAdapter<Chamados> adapter = new ArrayAdapter<Chamados>(getActivity(),android.R.layout.simple_list_item_1, listaDeChamadosFechados);
+
+
+
+                    listChamadosFechados = (ListView) view.findViewById(R.id.lista);
+                    listChamadosFechados.setAdapter(adapter);
+                }
+
+
+            }
+
+            @Override
+            public void onFailure(Exception e) {
+                Toast.makeText(view.getContext(),"ERROR: " + e.getMessage(), Toast.LENGTH_LONG).show();
+
+            }
+        });
+        chamadoTask.execute();
+        return view;
+    }
+}
